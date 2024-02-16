@@ -1,4 +1,4 @@
-<a href="https://top.gg/bot/623481583411658753"><img src="https://i.imgur.com/HESiKYQ.png" width="100%" height="auto"/></a>
+<a href="https://github.com/FarisAfra/"><img src="https://i.imgur.com/HESiKYQ.png" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://www.linkedin.com/in/faris-afra/"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
