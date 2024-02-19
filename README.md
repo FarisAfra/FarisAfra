@@ -23,17 +23,12 @@ I am a student at **IPB University Vocational School** majoring in **Software En
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.w3schools.com/js/" target="_blank"> <img align="left" alt="C" width="26px" src="https://i.imgur.com/h9TbUt6.png"/> </a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="Java" target="_blank"><img align="left" alt="Java" width="26px" src="https://i.imgur.com/KW0R1Ry.png" /></a>
-<a href="Kotlin" target="_blank"><img align="left" alt="Kotlin" width="26px" src="https://i.imgur.com/Z4LyEJh.png" /></a>
-<a href="RStudio" target="_blank"><img align="left" alt="RStudio" width="26px" src="https://i.imgur.com/JoNbYOl.png" /></a>
-<a href="React" target="_blank"><img align="left" alt="React" width="26px" src="https://i.imgur.com/Zs8dxLD.png" /></a>
-<a href="MongoDB" target="_blank"><img align="left" alt="MongoDB" width="26px" src="https://i.imgur.com/0UAspsi.png" /></a>
-<a href="Mysql" target="_blank"><img align="left" alt="Mysql" width="26px" src="https://i.imgur.com/cIxabdV.png" /></a>
-<br />
-<br />
-<a href="Bootstrap" target="_blank"><img align="left" alt="Bootstrap" width="26px" src="https://i.imgur.com/Vb5YX99.png" /></a>
+<a href="https://kotlinlang.org/" target="_blank"><img align="left" alt="Kotlin" width="26px" src="https://i.imgur.com/Z4LyEJh.png" /></a>
+<a href="https://www.java.com/en/" target="_blank"><img align="left" alt="Java" width="26px" src="https://i.imgur.com/KW0R1Ry.png" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="Mysql" width="26px" src="https://i.imgur.com/cIxabdV.png" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="26px" src="https://i.imgur.com/0UAspsi.png" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<a href="https://github.com/FarisAfra/" target="_blank"> <img align="left" alt="git" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg"/> </a>
 <br />
 <br />
 ### Softwares:
