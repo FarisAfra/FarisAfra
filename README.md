@@ -97,6 +97,7 @@ My main interests:
 
 📧 Let’s collaborate, build, and grow together!
 
+- 💻 Website: https://farisafra.com/
 - 💼 LinkedIn: https://www.linkedin.com/in/faris-afra/
 - 💻 GitHub: https://github.com/FarisAfra
 - 📸 Instagram: https://www.instagram.com/faris_afra/
